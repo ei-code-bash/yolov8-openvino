@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/ei/codes/yolov8_openvino/build",
+  "command": "/usr/bin/g++ -DOV_THREAD=OV_THREAD_TBB -D_GLIBCXX_USE_CXX11_ABI=1 -I/home/ei/codes/yolov8_openvino/include -isystem /usr/include/opencv4 -g -Wno-error=deprecated-declarations -o CMakeFiles/Yolo_detection.dir/src/main.cpp.o -c /home/ei/codes/yolov8_openvino/src/main.cpp",
+  "file": "/home/ei/codes/yolov8_openvino/src/main.cpp"
+},
+{
+  "directory": "/home/ei/codes/yolov8_openvino/build",
+  "command": "/usr/bin/g++ -DOV_THREAD=OV_THREAD_TBB -D_GLIBCXX_USE_CXX11_ABI=1 -I/home/ei/codes/yolov8_openvino/include -isystem /usr/include/opencv4 -g -Wno-error=deprecated-declarations -o CMakeFiles/Yolo_detection.dir/src/yolo_detection.cpp.o -c /home/ei/codes/yolov8_openvino/src/yolo_detection.cpp",
+  "file": "/home/ei/codes/yolov8_openvino/src/yolo_detection.cpp"
+}
+]

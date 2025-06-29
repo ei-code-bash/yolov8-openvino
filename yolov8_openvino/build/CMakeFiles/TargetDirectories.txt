@@ -1,0 +1,3 @@
+/home/ei/codes/yolov8_openvino/build/CMakeFiles/Yolo_detection.dir
+/home/ei/codes/yolov8_openvino/build/CMakeFiles/edit_cache.dir
+/home/ei/codes/yolov8_openvino/build/CMakeFiles/rebuild_cache.dir
